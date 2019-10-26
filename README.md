@@ -13,4 +13,4 @@ playsound
 
 ### After installation implement - python drowsiness.py in your command shell
 
-<img src="go3.png" width="350" title="hover text">
+<img src="go3.JPG" width="350" title="hover text">
