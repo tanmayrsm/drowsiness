@@ -1,5 +1,4 @@
-# drowsiness
-## Drowsiness detector
+# Drowsiness detector
 ### We will require following modules to execute this program : 
 scipy  
 imutils  
@@ -14,4 +13,4 @@ playsound
 
 ### After installation implement - python drowsiness.py in your command shell
 
-<img src="1.png" width="350" title="hover text">
+<img src="go3.png" width="350" title="hover text">
